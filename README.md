@@ -6,4 +6,4 @@ I am currently learnig C# ASP.NET Core MVC using entity framework to build the a
 
 The image below illustrates some ideas I have been toying around with.
 
-![](https://i.ibb.co/ccVcpzp/Screenshot-1.png
+![](https://i.ibb.co/ccVcpzp/Screenshot-1.png)
